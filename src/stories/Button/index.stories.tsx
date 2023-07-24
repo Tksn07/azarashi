@@ -1,5 +1,4 @@
-import React from 'react'
-import { Button } from './index'
+import { Button } from '../../components/Button/index'
 
 // コンポーネントの概要
 export default {

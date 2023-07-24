@@ -1,4 +1,4 @@
-import { Checkbox } from './index'
+import { Checkbox } from '../../components/Checkbox/index'
 
 // コンポーネントの概要
 export default {

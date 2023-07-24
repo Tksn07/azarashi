@@ -1,4 +1,4 @@
-import { Modal } from './index'
+import { Modal } from '../../components/Modal/index'
 
 // コンポーネントの概要
 export default {

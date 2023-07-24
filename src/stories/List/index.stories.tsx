@@ -1,4 +1,4 @@
-import { List } from './index'
+import { List } from '../../components/List/index'
 
 // コンポーネントの概要
 export default {

@@ -1,4 +1,4 @@
-import { TextField } from './index'
+import { TextField } from '../../components/TextField/index'
 
 // コンポーネントの概要
 export default {
